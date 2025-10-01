@@ -18,9 +18,8 @@ A demonstration of cross-platform programming capabilities:
 ### Project 2 - Biological and Ecological Modeling Suite
 Multi-language implementation of biological systems:
 - **Perl**: Bacterial growth dynamics with environmental parameters
-- **Python**: University research data analysis framework
+- **Python**: Newton's cooling law
 - **R**: Michaelis-Menten enzyme kinetics modeling
-- **System Dynamics**: Prey-predator ecosystem models
 
 ### Project 3 - Numerical Methods and Population Dynamics
 Advanced computational modeling project:
@@ -66,3 +65,4 @@ Advanced computational modeling project:
 - Java 11+
 - Fortran compiler (gfortran)
 - Perl 5.30+
+
