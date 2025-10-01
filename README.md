@@ -1,13 +1,11 @@
 # Biological Systems Modeling Projects
 
-A comprehensive collection of computational projects focusing on systems analysis, design, and modeling across multiple programming paradigms and scientific domains. This repository demonstrates practical applications of numerical methods, biological modeling, and cross-platform programming skills.
+A collection of computational projects focusing on systems analysis, design, and modeling across multiple programming languages.
 
 🔗 **GitHub Repository**: `https://github.com/bryllewoody/Biological-Systems-Modeling`  
 📚 **Course**: ABE5643C - Biological Systems Modeling  
 🏫 **Institution**: University of Florida  
 📅 **Academic Period**: Fall 2025
-
-## Project Portfolio
 
 ### Project 1 - Multi-Language Programming Framework
 A demonstration of cross-platform programming capabilities:
@@ -30,21 +28,7 @@ Advanced computational modeling project:
 - Implementation of Euler's method vs Runge-Kutta 4th order algorithms
 - Population growth modeling with parameter sensitivity analysis
 - Data visualization and error quantification framework
-
-## Technologies and Frameworks
-
-### Core Programming Languages
-- **Python**: Data science, numerical computing, visualization
-- **R**: Statistical modeling, bioinformatics, data analysis
-- **Fortran**: High-performance scientific computing
-- **Java**: Enterprise-level object-oriented development
-- **Perl**: Bioinformatics and text processing automation
-
-### Specialized Tools
-- **VenSim**: System dynamics and complex systems modeling
-- **Excel**: Business intelligence and data integration
-- **Git**: Version control and collaborative development
-
+  
 ## Repository Architecture
 
 ```
@@ -82,8 +66,3 @@ Advanced computational modeling project:
 - Java 11+
 - Fortran compiler (gfortran)
 - Perl 5.30+
-
-- **Course Foundation**: ABE5643C - Biological Systems Modeling
-- **Institution**: University of Florida
-- **Academic Period**: Fall 2025
-- **Focus Areas**: Computational modeling, systems thinking, multi-paradigm programming
