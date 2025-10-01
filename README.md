@@ -8,8 +8,7 @@ A collection of computational projects focusing on systems analysis, design, and
 📅 **Academic Period**: Fall 2025
 
 ### Project 1 - Multi-Language Programming Framework
-A demonstration of cross-platform programming capabilities:
-- **Fortran**: High-performance Fibonacci sequence calculator for scientific computing
+- **Fortran**: Fibonacci sequence calculator for scientific computing
 - **Java**: Object-oriented palindrome checker with robust string handling
 - **Perl**: Efficient factorial calculator optimized for large numbers
 - **Python**: Prime number checker with algorithmic optimization
@@ -32,14 +31,12 @@ Advanced computational modeling project:
 
 ```
 ├── Project1_MultiLanguage/          # Cross-platform programming framework
-│   ├── README.md                    # Project documentation
 │   ├── fortran/fibonacci.f90        # High-performance Fibonacci calculator
 │   ├── java/PalindromeChecker.java  # Object-oriented palindrome checker
 │   ├── perl/factorial_calculator.pl # Efficient factorial computation
 │   ├── python/prime_checker.py      # Optimized prime number checker
 │   └── r/dice_sim.R                 # Statistical dice simulation
 ├── Project2_BiologicalModeling/     # Ecological and biological systems
-│   ├── README.md                    # Project documentation
 │   ├── perl_bacterial_dynamics/     # Exponential growth modeling
 │   │   └── bacterial_growth.pl
 │   ├── python_data_analysis/        # Newton's cooling law (forensics)
@@ -48,15 +45,10 @@ Advanced computational modeling project:
 │   │   └── michaelis_menten.R
 │   └── system_dynamics_models/      # Complex systems (VenSim models)
 ├── Project3_NumericalMethods/       # Advanced computational methods
-│   ├── README.md                    # Project documentation
-│   ├── algorithms/                  # Core numerical methods
-│   │   ├── euler_method.py          # First-order integration
-│   │   └── runge_kutta.py           # Fourth-order integration
-│   ├── comparative_analysis/        # Method comparison studies
-│   │   └── method_comparison.py
-│   └── visualizations/              # Scientific plotting tools
-│       ├── plot_overlay.py          # Basic visualization
-│       └── advanced_plotting.py     # Publication-quality plots
+│   └── comparative_analysis/        # Method comparison studies
+│        └── method_comparison.py    
+|        └── runge_kutta_vs_euler.py
+
 ```
 
 ### Prerequisites
@@ -65,4 +57,5 @@ Advanced computational modeling project:
 - Java 11+
 - Fortran compiler (gfortran)
 - Perl 5.30+
+
 
