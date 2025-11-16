@@ -4,8 +4,6 @@ A collection of computational projects focusing on systems analysis, design, and
 
 🔗 **GitHub Repository**: `https://github.com/bryllewoody/Biological-Systems-Modeling`  
 📚 **Course**: ABE5643C - Biological Systems Modeling  
-🏫 **Institution**: University of Florida  
-📅 **Academic Period**: Fall 2025
 
 ### Project 1 - Multi-Language Programming Framework
 - **Fortran**: Fibonacci sequence calculator for scientific computing
@@ -57,5 +55,6 @@ Advanced computational modeling project:
 - Java 11+
 - Fortran compiler (gfortran)
 - Perl 5.30+
+
 
 
