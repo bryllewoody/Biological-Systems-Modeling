@@ -42,10 +42,10 @@ Advanced computational modeling project:
 │   ├── r_enzyme_kinetics/           # Michaelis-Menten kinetics
 │   │   └── michaelis_menten.R
 │   └── system_dynamics_models/      # Complex systems (VenSim models)
-├── Project3_NumericalMethods/       # Advanced computational methods
-│   └── comparative_analysis/        # Method comparison studies
-│        └── method_comparison.py    
-|        └── runge_kutta_vs_euler.py
+└── Project3_NumericalMethods/       # Advanced computational methods
+    └── comparative_analysis/        # Method comparison studies
+         └── method_comparison.py    
+         └── runge_kutta_vs_euler.py
 
 ```
 
